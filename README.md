@@ -1,48 +1,30 @@
-# 📰 Portal de Notícias - Sistema Responsivo e Adaptável
+# 🛡 PladixProtect - Portfólio do Sistema Anti-Cheat para FiveM
 
 ## Sobre o Projeto
 
-O **Portal de Notícias** é uma plataforma moderna e responsiva, desenvolvida com **Vite + React + TypeScript**, proporcionando uma experiência fluida tanto para dispositivos móveis quanto para computadores.
+O **PladixProtect** é um **sistema avançado de anti-cheat** desenvolvido exclusivamente para **servidores FiveM**, oferecendo proteção contra trapaças e exploits que comprometem a jogabilidade.
 
-### 🌟 Principais Recursos
+### 🔍 Principais Funcionalidades
 
-- 📱 **Totalmente responsivo** (Mobile e Desktop)
-- 🎨 **Tema agradável** e adaptável para qualquer usuário
-- 📰 **Exibição de manchetes** com imagens destacadas
-- ✍️ **Biografia dos autores das postagens**
-- 🗄 **Compatível com diversos bancos de dados**, permitindo integração com múltiplas plataformas
-- 🌗 **Modo Claro e Escuro**, permitindo ao usuário alternar ao lado do título "Portal de Notícias"
+- ⚙ **Detecção Automática de Cheats**
+- 📜 **Registro de Logs em JSON**
+- 🚨 **Banimento Automático de Jogadores Detectados**
+- 🎯 **Sistema de Detecção de Aimbot e Hacks Avançados**
+- 🎥 **Gravação de Tela de Jogadores Suspeitos** (30s)
+- 📡 **Envio de Relatórios e Logs para um Servidor via Node.js**
 
-## 📌 Novidades da Atualização (14/02/2025)
+## 📌 Tecnologia Utilizada
 
-- ✅ **Opção de alternância entre modo Claro e Escuro**
-
-### 📸 Imagens de Demonstração
-
-#### Modo Claro:
-![Modo Claro](https://i.ibb.co/0bMqf3X/image.png)
-
-#### Modo Escuro:
-![Modo Escuro](https://i.ibb.co/pjLX9gXn/image.png)
+- **Lua** para desenvolvimento principal do script
+- **Node.js** para integração e envio de logs para o Discord
+- **Sistema de Logs em JSON** para rastreamento detalhado
 
 ## 📥 Instalação e Configuração
 
-1. Certifique-se de ter o **Node.js** instalado.
-2. No terminal, execute o seguinte comando para instalar as dependências:
-   ```sh
-   npm install
-   ```
-3. Para iniciar o modo de desenvolvimento, utilize:
-   ```sh
-   npm run dev
-   ```
-4. Para rodar no modo de produção, utilize:
-   ```sh
-   npm run build
-   ```
+O PladixProtect é um sistema exclusivo e personalizado. Para adquirir e configurar corretamente, entre em contato.
 
-## 🛠 Suporte & Contato
+## 📩 Contato
 
-Para sugestões, melhorias ou resolução de bugs, entre em contato:
+Para mais informações sobre o projeto, suporte ou aquisição:
 📩 **Telegram:** [t.me/pladixoficial](https://t.me/pladixoficial)
 
